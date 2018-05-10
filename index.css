@@ -1,3 +1,8 @@
+body {
+    padding:0!important; 
+    margin:0 !important;
+  }
+
 .container {
   max-width: 960px;
   height:100%;
@@ -39,6 +44,8 @@ top: -305px;
 	position: relative;
 	top: -310px;
 	width: 100%;
+  vertical-align: bottom;
+  display: block;
 }
 
 
