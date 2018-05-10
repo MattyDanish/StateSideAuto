@@ -12,7 +12,7 @@ body {
 .logo {
 
 	position: relative;
-	padding-left: 50px;
+	padding-left: 30px;
 }
 
 .full {
@@ -124,8 +124,7 @@ padding: 1px;
 
   .logo {
   display: block;
-  margin: 0 auto;
-  padding-right: 40px;
+float: left;
 }
 h1 {
   display: block;
